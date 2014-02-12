@@ -1,0 +1,11 @@
+{
+  "name": "jquery-restrict",
+  "version": "0.1.0",
+  "dependencies": {
+    "jquery": "1.10.2"
+  },
+  "keywords": [
+    "jquery",
+    "plugin"
+  ]
+}

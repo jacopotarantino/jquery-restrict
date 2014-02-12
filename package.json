@@ -1,0 +1,30 @@
+{
+  "name": "jquery-restrict",
+  "title": "jQuery Restrict",
+  "description": "jQuery plugin to restrict inputs to a pattern",
+  "version": "0.1.0",
+  "author": {
+    "name": "Jack Tarantino for Updater",
+    "url": "https://www.updater.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacopotarantino/jquery-restrict.git"
+  },
+  "keywords": [
+    "jquery",
+    "plugin"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jquery/jquery/blob/master/MIT-LICENSE.txt"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "0.4.2",
+    "grunt-cli": "0.1.13",
+    "grunt-contrib-uglify": "0.3.2"
+  }
+}
